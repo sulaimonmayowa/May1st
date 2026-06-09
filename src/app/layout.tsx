@@ -20,6 +20,10 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: "Sulaimon Mayowa | Websites that build trust & drive growth",
   description: "I partner with founders to build websites that explain clearly, convert fast, and stand out. Built for early-stage teams with big ideas.",
+  icons: {
+    icon: "/favicon.png",
+    apple: "/favicon.png",
+  },
   openGraph: {
     title: "Sulaimon Mayowa | Websites that build trust & drive growth",
     description: "I partner with founders to build websites that explain clearly, convert fast, and stand out. Built for early-stage teams with big ideas.",
